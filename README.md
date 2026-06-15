@@ -34,6 +34,23 @@ The first focus areas are:
 6. Physician burnout and mental health
 7. Transparency and quality evaluation
 
+
+## Project Roadmap | نقشه راه پروژه
+
+This project uses a GitHub Project board to move ideas from discussion toward practical reform.
+
+این پروژه از یک برد گیت‌هاب برای تبدیل ایده‌ها به تحلیل، طراحی راه‌حل، اجرای آزمایشی و یادگیری استفاده می‌کند.
+
+Project stages:
+
+1. Inbox | ورودی
+2. Analysis | تحلیل
+3. Solution Design | طراحی راه‌حل
+4. Pilot | اجرای آزمایشی
+5. Completed / Learned | انجام‌شده / آموخته‌ها
+
+🔗 [View the Project Roadmap]([https://github.com/users/SaeidKhonji/projects/2])
+
 ## How to contribute
 
 You can contribute by:
